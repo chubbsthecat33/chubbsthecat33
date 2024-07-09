@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/his.
-- ⚡ Fun fact: I'm not a cat.
+- ⚡ Fun fact: I am not a cat.
 
 <!---
 chubbsthecat33/chubbsthecat33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
